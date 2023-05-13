@@ -1,0 +1,3 @@
+CONFIG_SECRET_KEY = 'your SECRET_KEY here'
+
+CONFIG_DEBUG = True
